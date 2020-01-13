@@ -1,0 +1,1 @@
+A collection of scripts and artifacts used to solve the 2019 SANS Holiday Hack Challenge.
